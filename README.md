@@ -68,6 +68,9 @@ View Insights: Interactive graphs and real-time analysis of fitness trends.
 Project live on --
 https://aibasedfitnessapp.streamlit.app/
 
+Video Link--
+https://www.linkedin.com/feed/update/urn:li:activity:7309541605802188800/
+
 
 
 
