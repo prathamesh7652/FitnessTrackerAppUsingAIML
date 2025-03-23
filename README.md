@@ -40,11 +40,11 @@ Prediction & Insights: Generating real-time fitness insights based on user input
 
 Clone the repository:
 
-git clone https://github.com/yourusername/fitness-tracker.git
+git clone https://github.com/prathamesh7652/FitnessTrackerAppUsingAIML
 
 Navigate to the project folder:
 
-cd fitness-tracker
+cd FitnessTrackerAppUsingAIML
 
 Install dependencies:
 
@@ -64,15 +64,10 @@ Get Predictions: AI model predicts calorie expenditure based on input.
 
 View Insights: Interactive graphs and real-time analysis of fitness trends.
 
-📜 License
 
-This project is open-source and available under the MIT License.
+Project live on --
 
-🤝 Contributing
 
-Contributions are welcome! Feel free to submit issues or create pull requests.
 
-📬 Contact
 
-For any inquiries, reach out at: your.email@example.com
 
